@@ -1,0 +1,51 @@
+.navbar a
+{
+    padding-top: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+}
+.nav a
+{
+    padding-top: 25px;
+    font-weight: 400;
+    font-size: 16px;
+    color: white
+}
+#flod
+{
+	width: 100%; 
+	min-height: 662px;
+	background-image: url(img/cover.jpg);
+	background-size: cover;
+    background-color: rgba(236, 51, 55, 0.7);
+}
+.overlay
+{
+height: 100%;
+width: 100%;
+background-color: rgba(236, 51, 55, 0.7);
+color: #FFF;   
+}
+
+#flod .title h1
+{
+    padding-top: 130px;
+    font-weight: 700;
+    font-size: 4em;
+    color: #ffffff;
+    text-shadow: 0px 5px 10px #af2424;
+}
+#flod .title h2
+{
+    color:white;
+    text-shadow: 0px 5px 10px #black;
+
+}
+#flod button
+{
+    color: white;
+    border-color: white;
+    background-color: rgba(236, 51, 55, 0.7);
+    margin: 30px;
+}
